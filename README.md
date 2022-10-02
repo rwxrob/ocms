@@ -1,15 +1,15 @@
 # ⚡ OCMS Credentials
 
 This repo contains a (growing) collection of credential requirement
-[specifications](spec) for the [Open Credential Merit System](about) and
-are designed to provide an overview of the skills, knowledge, and
-abilities required to fulfill certain, specific roles. Currently, this
-is a work in progress. Feel free to open issues for missing requirements
-you feel are warranted. Hopefully, this will become a community effort.
-The goal is to provide direction for those seeking to fill these roles
-professionally and provide a reference -- built from professional
-consensus -- for both learners and those who could mentor them (not
-unlike Scouting Merit Badges).
+[specifications](spec) that follow the [Open Credential Merit
+System](about) and are designed to provide an overview of the skills,
+knowledge, and abilities required to fulfill certain, specific roles.
+Currently, this is a work in progress. Feel free to open issues for
+missing requirements you feel are warranted. Hopefully, this will become
+a community effort. The goal is to provide direction for those seeking
+to fill these roles professionally and provide a reference -- built from
+professional consensus -- for both learners and those who could mentor
+them (not unlike Scouting Merit Badges).
 
 Foundational
 
