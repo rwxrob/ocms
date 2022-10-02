@@ -24,9 +24,15 @@ Foundational
 
 Software Applications Development
 
-* [Bash Programmer](bash)
+* [Shell Scripter](shell)
 * [Go Programmer](golang)
 * [Python Programmer](python)
+* [Ruby Programmer](ruby)
+* [C Programmer](c)
+* [C++ Programmer](cpp)
+* [Erlang Programmer](erlang)
+* [Java Programmer](java)
+* [Assembly Programmer](assembly)
 * [Web Programmer](web)
 * [Software Developer](dev)
 * [Frontend Web Developer](frontend)
