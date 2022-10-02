@@ -34,11 +34,23 @@ Software Applications Development
 * [Erlang Programmer](erlang)
 * [Java Programmer](java)
 * [Assembly Programmer](assembly)
-* [Web Programmer](web)
 * [Software Developer](dev)
+* [Kubernetes Application Developer](k8sdev)
+
+Web Applications Development
+
+* [Web Designer](webdesign)
+* [Web Programmer](web)
 * [Frontend Web Developer](frontend)
 * [Backend Web Developer](backend)
-* [Kubernetes Application Developer](k8sdev)
+
+> 💢 Avoid the title "Full Stack Developer" when you can. It is
+useless for anything other than searching for potential jobs and has
+become a source of frustration for many in the industry since no one can
+agree on what it actually means. If you do insist on using this title
+make sure you fulfill *all* the requirements for both Frontend and
+Backend (which very few in the industry claiming the problematic "Full
+Stack" title actually do).
 
 Systems Administration and Architecture
 
