@@ -12,6 +12,8 @@ to fill these roles professionally and provide a reference -- built from
 professional consensus -- for both learners and those who could mentor
 them (not unlike Scouting Merit Badges).
 
+*(Not all of the following are yet linked.)*
+
 Foundational
 
 * [Computer User](user)
@@ -25,10 +27,9 @@ Software Applications Development
 * [Bash Programmer](bash)
 * [Go Programmer](golang)
 * [Python Programmer](python)
-* [Web Programmer](web) - HTML, CSS, JavaScript, HTTP
+* [Web Programmer](web)
 * [Software Developer](dev)
-* [Frontend Web Developer](frontend) - React, Vue, Svelte, Angular,
-  TypeScript, WASM, Rust
+* [Frontend Web Developer](frontend)
 * [Backend Web Developer](backend)
 * [Kubernetes Application Developer](k8sdev)
 
