@@ -30,6 +30,7 @@ Software Applications Development
 * [Ruby Programmer](ruby)
 * [C Programmer](c)
 * [C++ Programmer](cpp)
+* [Rust Programmer](rust)
 * [Erlang Programmer](erlang)
 * [Java Programmer](java)
 * [Assembly Programmer](assembly)
